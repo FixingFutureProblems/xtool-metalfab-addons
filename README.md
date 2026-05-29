@@ -1,4 +1,4 @@
-# XTool MetalFab Addons
+# xTool MetalFab Addons
 
 Every xTool MetalFab owner will eventually run into these problems. This repository contains the solutions.
 Open-source add-ons, fixtures and workflow improvements for the xTool MetalFab.
