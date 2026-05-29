@@ -52,4 +52,4 @@ Ideas, improvements and test results are welcome.
 
 ---
 
-Fixing Future Problems
+Fixing Future Problems · Ideas with tolerances · https://fixingfutureproblems.com
